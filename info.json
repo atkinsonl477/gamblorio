@@ -1,0 +1,11 @@
+{
+    "name": "gamblorio",
+    "version": "0.1.0",
+    "title": "gamblorio",
+    "author": "You",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod overhauls crafting to require players to craft intermediate products through a gambling system"
+  }
+
+  
